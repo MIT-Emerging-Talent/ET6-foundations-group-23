@@ -55,9 +55,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: python version
         run: python --version
         shell: bash
+      
+      - name: Check for test files
+        id: check_tests
+        run: |
+          test_files=$(find ./solutions/tests -type f -name "test_*.py")
+          if [ -n "$test_files" ]; then
+            echo "Found test files:"
+            echo "$test_files"
+            echo "has_tests=true" >> $GITHUB_OUTPUT
+          else
+            echo "No test files found matching pattern ./solutions/tests/test_*.py"
+            echo "has_tests=false" >> $GITHUB_OUTPUT
+          fi
+        shell: bash
+      
       - name: Python - Run Tests
+        if: steps.check_tests.outputs.has_tests == 'true'
         run: python -m unittest
         shell: bash
