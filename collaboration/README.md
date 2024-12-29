@@ -5,7 +5,7 @@
 ## Group Norms Summary
 
 Our team prioritizes productivity through clear communication, timely task
- delivery, and collaborative problem-solving. We hold efficient, purposeful
+delivery, and collaborative problem-solving. We hold efficient, purposeful
   meetings and make decisions democratically. By fostering a supportive
    environment, we ensure every member's contributions drive
     progress toward our shared goals.
