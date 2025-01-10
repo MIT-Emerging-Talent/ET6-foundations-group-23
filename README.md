@@ -51,8 +51,6 @@ _____
 ## About This Repository 🏄
 
 ![alt text](<assets/california-flag 2.gif>)
-![alt text](<assets/california-flag 2.gif>)
-![alt text](<assets/california-flag 2.gif>)
 
 This repository is part of the MIT Emerging Talent - Foundation Track program.
 It is a dedicated space for learning and practicing Python programming,
