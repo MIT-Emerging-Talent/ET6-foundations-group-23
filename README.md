@@ -5,7 +5,7 @@
   alt="Description of the GIF" style="width: 800px;">
 </div>
 
-**Welcome!**
+## **Welcome!**
 
  ![alt text](<assets/Welcome to California.gif>)
 
@@ -22,6 +22,7 @@ drives success. We support continuous learning and innovative thinking.
 Our shared commitment to growth and development empowers
 each member to contribute and learn from collective experiences, ensuring we work
 together effectively to achieve success.
+_____
 
 ## Meet the Team 🌞🌴
 
@@ -45,11 +46,13 @@ Each member brings something special to the table.
 - [**Anyak:**](https://github.com/Anyak7) Technology is the future,
 and we are the builders. Let's code, learn, and grow together!
 
+_____
+
 ## About This Repository 🏄
 
-![alt text](<assets/california-flag 2.gif>)![alt text]
-(<assets/california-flag 2.gif>)![alt text]
-(<assets/california-flag 2.gif>)
+![alt text](<assets/california-flag 2.gif>)
+![alt text](<assets/california-flag 2.gif>)
+![alt text](<assets/california-flag 2.gif>)
 
 This repository is part of the MIT Emerging Talent - Foundation Track program.
 It is a dedicated space for learning and practicing Python programming,
@@ -88,7 +91,10 @@ To run all available _unittests_, execute the following from the root directory:
 python -m unittest discover -v
 ```
 
-____
+_Doctests_ are embedded within the scripts and can be run directly in
+**Python** for quick checks.
+
+_____
 
 ## Repo Structure
 
@@ -108,15 +114,14 @@ MIT-Emerging-Talent-Foundation-Track/
 │   ├── tests/              
 ````
 
-_Doctests_ are embedded within the scripts and can be run directly in
-**Python** for quick checks.
+_____
 
 ## License
 
 This project is licensed under the MIT License.
 For more details, see the `LICENSE` file.
 
-____
+_____
 
 <div style="display: flex; justify-content: left;">
   <img src="assets\california-beach.gif"  
