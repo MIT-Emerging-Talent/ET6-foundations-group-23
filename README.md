@@ -1,6 +1,9 @@
 # California Group
+![alt text](<assets/California intro.gif>)
 
 Welcome to **California Group** Repository,
+  
+  ![alt text](<assets/Welcome to California.gif>)
 
 We are proudly part of the **MIT Computer and Data Science Foundation Track _2024-2025_**.
 
@@ -24,12 +27,13 @@ Each member brings something special to the table.
 - **Hasan**: I breath Cyber Secur1ty 🥷🏼🛡💻
 - **Cynthia**: Crafting solutions, one line of code at a time. 💻✨
 - **Sadam**:Turning data into dreams with the power of AI & ML 🤖✨
+- **Ibrahim**: Obsessed with creating and spotting logical fallacies 🤓🔍🧠
 
-## About This Repository
+## About This Repository 
 
-This repository serves as a centralized hub for contributing Python solutions to
-various coding challenges and implementing robust test cases to ensure their
-accuracy and reliability.
+![alt text](<assets/california-flag 2.gif>)
+
+This repository is part of the MIT Emerging Talent - Foundation Track program. It is a dedicated space for learning and practicing Python programming, as well as improving skills in documentation, testing, and code review to build a strong foundation in software development.
 
 Inside `solutions/` folder each file is designed to be modular and concise,
 addressing a specific problem.
