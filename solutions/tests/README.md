@@ -33,9 +33,10 @@ Every test is a defination of a story. Here's what we have for you:
 | 15       | [test_review_date_calculator.py](./test_review_date_calculator.py) | Novel Yonas             |test Plan spaced repetition like a time management wizard! ⏳                                                                                            |
 | 16       | [test_specific_gravity_calculator.py](./test_specific_gravity_calculator.py) | Novel Yonas             |test Calculate the specific gravity of substances – science meets simplicity! ⚗️                                                                           |
 | 17       | [test_square_number.py](./test_square_number.py)            | Saeed Ali               |test Square numbers like a math maestro. 🔢                                                                                                         |
-| 18       | [test_sum.py](./test_sum.py)                                | Abraham Anyak           |test Compute the sum of two numbers effortlessly. ➕                                                                                          
-                 |
-| 19      | [test_sum_proper_divisors.py](./test_sum_proper_divisors.py) | Ibrahim-Elmisbah        |test Calculate the sum of proper divisors with mathematical finesse. ➗                                                                                    |
+| 18       | [test_sum.py](./test_sum.py)                                | Abraham Anyak           |test Compute the sum of two numbers
+ effortlessly.                                                                                    
+| 19      | [test_sum_proper_divisors.py](./test_sum_proper_divisors.py) | Ibrahim-Elmisbah        |test Calculate the sum of proper divisors
+ with mathematical finesse. ➗                                                                                    |
 | 20       | [test_vowel_counter.py](test_vowel_counter.py)            | Hasan Zemzem            |test Count vowels like a linguistic genius! 🔤                                                                                                           |
 
 ---
