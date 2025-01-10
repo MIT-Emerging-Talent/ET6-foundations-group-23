@@ -1,6 +1,8 @@
 # California Group 🌉
+<!-- markdownlint-disable MD033 -->
 <div style="text-align: left; margin-bottom: 20px;">
-  <img src="assets\California intro.gif" alt="Description of the GIF" style="width: 600px;">
+  <img src="assets\California intro.gif"
+  alt="Description of the GIF" style="width: 800px;">
 </div>
 
 Welcome to **California Group** Repository,
@@ -31,18 +33,18 @@ Each member brings something special to the table.
 - **Sadam**:Turning data into dreams with the power of AI & ML 🤖✨
 - **Ibrahim**: Obsessed with creating and spotting logical fallacies 🤓🔍🧠
 
-## About This Repository🏄 
+## About This Repository🏄  
 
 ![alt text](<assets/california-flag 2.gif>)
 
-This repository is part of the MIT Emerging Talent - Foundation Track program. 
-It is a dedicated space for learning and practicing Python programming, 
-as well as improving skills in documentation, testing, 
+This repository is part of the MIT Emerging Talent - Foundation Track program.  
+It is a dedicated space for learning and practicing Python programming,  
+as well as improving skills in documentation, testing,  
 and code review to build a strong foundation in software development.
 
-# Repo Structure 
+## Repo Structure
 
-```
+``` plaintext
 MIT-Emerging-Talent-Foundation-Track/
 ├── .github/                
 ├── .vscode/                 
@@ -57,6 +59,8 @@ MIT-Emerging-Talent-Foundation-Track/
 ├── solutions/              
 │   ├── tests/              
 ````
+
 <div style="display: flex; justify-content: left;">
-  <img src="assets\california-beach.gif" alt="Description of the GIF" style="width: 600px;">
+  <img src="assets\california-beach.gif"  
+  alt="Description of the GIF" style="width: 600px;">
 </div>
