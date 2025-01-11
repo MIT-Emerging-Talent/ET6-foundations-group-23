@@ -4,6 +4,7 @@
 
 ## Stop Doing
 
+- Initiating and implementing ideas individually.
 - Overwriting code during merge conflicts without resolving
   them collaboratively.
 - Working in isolation for too long without syncing progress with the team.
