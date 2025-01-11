@@ -1,85 +1,81 @@
-# Collaboration
+# 🤝 Collaboration
 
 <!-- group norms summary -->
 
-## Group Norms Summary
+## 🌟 Group Norms Summary
 
-Our team prioritizes productivity through clear communication, timely task
- delivery, and collaborative problem-solving. We hold efficient, purposeful
-  meetings and make decisions democratically. By fostering a supportive
-   environment, we ensure every member's contributions drive
-    progress toward our shared goals.
+Our team prioritizes productivity through:  
+📣 Clear communication  
+⏰ Timely task delivery  
+🤔 Collaborative problem-solving  
+We hold efficient, purposeful meetings 🗓️ and make decisions democratically.
+By fostering a supportive environment 🫂, we ensure every member's contributions
+drive progress toward our shared goals.
 
 <!-- group norms list -->
-## Group Norms for Effective Collaboration
+## 🚀 Group Norms for Effective Collaboration
 
-### 1. Building Trust
+### 1. 🤝 Building Trust  
 
-- Trust is built through action: deliver tasks on
-   time, with quality, and clarity.
-- Foster trust by assuming good intentions and maintaining
-  honesty and transparency.
-- Acknowledge each member's contributions regularly and openly.
-- Clearly define tasks, deadlines, and expectations to avoid misunderstandings.
-- Respect others’ time and schedules, and ask for help when needed.
+- ✅ Deliver tasks on time, with quality and clarity.  
+- 🛡️ Foster trust through honesty and transparency.  
+- 🎉 Acknowledge contributions regularly and openly.  
+- 📌 Define tasks, deadlines, and expectations clearly.  
+- 🕒 Respect others’ time and ask for help when needed.  
 
-### 2. Strengthening Relationships
+### 2. 🤗 Strengthening Relationships  
 
-- Listen actively during discussions, ensuring everyone feels heard.
-- Avoid interrupting or dismissing others’ ideas.
-- Avoid personalizing conflicts and focus on solutions.
-- Show appreciation for teammates' efforts and celebrate collective successes.
-- Use constructive feedback to resolve disagreements, offering
-   solutions rather than criticism.
+- 🛑 Avoid interrupting or dismissing others’ ideas.  
+- 👂 Listen actively to ensure everyone feels heard.  
+- 🛠️ Focus on solutions, not personalizing conflicts.  
+- 🙌 Show appreciation and celebrate successes.  
+- ✍️ Use constructive feedback to resolve disagreements.  
 
-### 3. Communication Practices
+### 3. 💬 Communication Practices  
 
-- Use Google Meet for major decisions and updates.
-- Slack or WhatsApp is preferred for detailed discussions and quick questions.
-- Keep dedicated project files organized and accessible to everyone.
-- Share meeting notes, updates, and agendas on Slack for transparency.
+- 📞 Use Google Meet for major updates and decisions.  
+- 💻 Use Slack or WhatsApp for quick questions and discussions.  
+- 📂 Keep files organized and accessible to all.  
+- 📝 Share meeting notes and updates on Slack for transparency.  
 
-### 4. Meetings and Coordination
+### 4. 🗓️ Meetings and Coordination  
 
-- Plan meetings using Slack polls and finalize times with Google Calendar.
-- Assign roles for smooth coordination:
-  - **Coordinator**: Manage meetings and oversee organization.
-  - **Vice-Coordinator**: Record outcomes and handle updates.
-  - **Technical Supervisor**: Oversee project technicalities and support the team.
-- Meetings should only be held when they add value.
-- Set the agenda for each meeting during the previous one to ensure preparedness.
-- Wait a maximum of 5 minutes for late members before proceeding.
-- Start and end meetings on time, adhering to a clear agenda.
-- Promote open communication about scheduling preferences and potential conflicts.
+- 🗳️ Plan meetings with Slack polls, finalize times on Google Calendar.  
+- 🎯 Assign roles for smooth coordination:  
+  - **Coordinator**: Manages meetings and organization.  
+  - **Vice-Coordinator**: Records outcomes and updates.  
+  - **Technical Supervisor**: Oversees technical aspects.  
+- 🕔 Wait a max of 5 minutes for late members before proceeding.  
+- ⏱️ Start and end meetings on time with a clear agenda.  
 
-### 5. Balancing Discussions and Debates
+### 5. ⚖️ Balancing Discussions and Debates  
 
-- Prioritize discussions over debates in most cases.
-- Engage in discussions to explore ideas and seek consensus.
-- Reserve debates for situations with well-formed differing opinions.
-- Define the purpose of each debate, avoid redundancy, and listen to diverse perspectives.
+- 💡 Prioritize discussions over debates for most decisions.  
+- 🤝 Seek consensus during discussions.  
+- 🔄 Reserve debates for clear, differing opinions.  
+- 🎯 Focus debates on specific purposes and diverse perspectives.  
 
-### 6. Decision-Making and Conflict Resolution
+### 6. 🗳️ Decision-Making and Conflict Resolution  
 
-- Discuss disagreements calmly in dedicated meetings.
-- Use a democratic approach:
-  - In meetings: Quick voting, with the majority deciding.
-  - Online: Slack or WhatsApp polls with a 12-hour response window.
+- 🤔 Discuss disagreements calmly in meetings.  
+- 🗳️ Use democratic voting:  
+  - **Meetings**: Majority vote.  
+  - **Online**: Slack or WhatsApp polls (12-hour response).  
 
-### 7. Rebuilding Trust When Broken
+### 7. 🔄 Rebuilding Trust When Broken  
 
-- Address concerns openly and focus on solutions rather than assigning blame.
-- Take responsibility for mistakes and commit to improvement.
-- Reset expectations and work collaboratively to rebuild confidence.
+- 🤗 Address concerns openly and focus on solutions.  
+- 🤝 Take responsibility for mistakes and commit to improving.  
+- 📅 Reset expectations and rebuild confidence together.  
 
-### 8. Respectful Collaboration
+### 8. 🤝 Respectful Collaboration  
 
-- Respect is shown by acknowledging ideas, even if they’re not adopted.
-- Constructive disagreements involve proposing alternatives or seeking solutions.
-- Avoid ignoring deadlines, input, or contributions from team members.
+- 🤗 Acknowledge ideas, even if not adopted.  
+- ✍️ Propose alternatives when disagreeing constructively.  
+- 🚫 Avoid ignoring deadlines or team contributions.  
 
-### 9. Fostering Positivity and Inclusion
+### 9. 🌟 Fostering Positivity and Inclusion  
 
-- Use emoji codes for quick replies and a "compliments jar" in Slack
-   to recognize contributions.
-- During challenging discussions, pause to ensure everyone feels heard.
+- 😄 Use emoji codes for quick responses.  
+- 🎁 Keep a "compliments jar" in Slack to recognize contributions.  
+- 🙋 Pause during challenging discussions to ensure everyone is heard.
