@@ -10,6 +10,14 @@
 - Working in isolation for too long without syncing progress with the team.
   
 - Committing untested code, which led to integration issues.
+
+- Reviewing code carelessly without sufficient attention to detail.
+
+- Missing meetings without giving prior notice.
+
+- Interrupting discussions during meetings.
+
+- Deviating off-topic redundantly during meetings.
   
 ## Continue Doing  
 
@@ -18,6 +26,12 @@
 - Writing clear and descriptive commit messages to improve traceability.
   
 - Sharing updates during team check-ins to stay aligned.
+
+- Supporting each other through challenges.
+
+- Accomplishing tasks within the given time frame.
+
+- Respecting one another and valuing diverse perspectives.
   
 ## Start Doing  
 
@@ -29,6 +43,10 @@
 - Conducting mandatory code reviews before merging changes into the main branch.
 
 - Writing modular and well-documented code to ease collaboration.
+
+- Actively engaging in discussions and project activities.
+
+- Collaborating more frequently and effectively.
   
 ## Lessons Learned  
 
@@ -44,6 +62,10 @@
 - Clear documentation helps the entire team understand and build on each
  other's work.
 
+- No pain, no gain — hard work is essential for success.
+
+- Sincerity and accountability are crucial for team success.
+
 ---
 
 ## Strategy vs. Board  
@@ -55,6 +77,12 @@
 - Milestones were met on time for specific deliverables.
   
 - Most team members followed the planned development workflow.
+
+- Collaborating effectively on shared files.
+
+- Solving problems effectively.
+
+- Conducting productive code reviews.
   
 ### What parts of your plan did not work out?  
 
