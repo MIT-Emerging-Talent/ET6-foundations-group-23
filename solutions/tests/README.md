@@ -4,9 +4,12 @@
 
 Welcome to the **Tests HQ** where creativity meets problem-solving!
 Here, you'll find an epic collection of Python-powered tests, tackling
-coding challenges with finesse. Written by a diverse team of passionate coders,
-this repository is the ultimate showcase of teamwork and innovation. Dive in,
-explore, and let the problem-solving adventures begin! 💡  
+coding challenges with finesse.
+ Written by a diverse team of passionate coders,
+this repository is the ultimate showcase of
+ teamwork and innovation. Dive in,
+explore, and let the problem-solving adventures
+ begin! 💡  
 Tests
 
 ---
