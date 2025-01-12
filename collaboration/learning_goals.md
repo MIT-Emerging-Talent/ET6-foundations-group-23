@@ -85,6 +85,14 @@ strategies.
 - Master data analysis tools for geophysical and geochemical data interpretation.
 - Understand and adapt geo-modelling scripts for customized environmental applications.
 
+### **Sadam Husen**
+
+- Dive deeper into advanced machine learning and AI techniques, focusing on
+real-world applications.
+
+- Contribute to projects that leverage AI for social impact, aiming for ethical
+and inclusive solutions.
+
 ---
 
 ## 🌟 Why These Goals Matter  

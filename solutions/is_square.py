@@ -6,14 +6,14 @@ A module for determining whether a given number is a perfect square.
 Module contents:
     - is_square: checks if a given integer is a perfect square.
 
-Created on XX XX XX
+Created on 26th/Dec/22024
 
 @author: WUOR BHANG GATWECH
 
 Challenge is from the Codewars website.
 
 Defining the square root of a given number:
-In this kata, you will create a function that determines whether a non-negative
+In this challenge, I will create a function that determines whether a non-negative
 integer is a perfect square. The function returns `True` if the input is a
 perfect square and `False` otherwise.
 
