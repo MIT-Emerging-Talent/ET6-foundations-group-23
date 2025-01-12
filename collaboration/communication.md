@@ -4,50 +4,50 @@ everything you write here will be public so share only what you are comfortable
 sharing online you can share the rest in confidence with you group by another
  channel -->
 
-# Communication
+# 📡 Communication
 
 ---
 
-## Communication Guidelines
+## 📝 Communication Guidelines
 
 This document outlines our team's communication practices and expectations.
 
 ### **General Principles**
 
-- Communicate clearly and respectfully.
-- Keep discussions focused on tasks, challenges, and solutions.
-- Use the appropriate channel for each type of communication to maintain efficiency.
+- 🗣️ Communicate clearly and respectfully.  
+- 🎯 Keep discussions focused on tasks, challenges, and solutions.  
+- 🔄 Use the appropriate channel for each type of communication to maintain efficiency.
 
 ---
 
-## Communication Channels  
+## 📬 Communication Channels  
 
 Here is how we’ll use our channels:  
 
-- **GitHub Issues**:  
+- **📌 GitHub Issues**:
   - Use issues to track tasks and share updates on progress.  
   - Provide clear, actionable comments when discussing challenges or asking for clarification.
 
-- **Pull Requests (PRs)**:  
+- **🔄 Pull Requests (PRs)**:  
   - Use PRs to propose changes and review code collaboratively.
   - Include detailed descriptions of what the PR addresses.
   - Follow the PR review process: reviewers provide constructive feedback,
   and authors respond promptly.  
 
-- **Slack/WhatsApp**:  
+- **💬 Slack/WhatsApp**:
   - Use for quick updates, scheduling calls, or informal discussions.
   - Use designated threads.  
 
-- **Video Calls (Google Meet)**:  
-  - Reserved for in-depth discussions, presentations, or team retrospectives.  
-  - Ensure the agenda is shared as an issue beforehand to  make the most
-  of everyone's time, and share the MoM after the meeting
+- **🎥 Video Calls (Google Meet)**:  
+  - Reserved for deep dives, presentations, or retrospectives.  
+  - Share the agenda in advance to respect everyone’s time.  
+  - Share the 📝 MoM (Minutes of Meeting) afterward
 
 ---
 
-## Availability
+## ⏰ Availability
 
-### **Calling and Messaging Availability**
+### **📞 Calling and Messaging Availability**
 
 ### **Team Availability Schedule**  
 
@@ -67,6 +67,8 @@ Here is how we’ll use our channels:
 `✓` = Available  
 `✘` = Unavailable  
 
+## 📊 Team Commitment
+
 ### How many hours everyone has per day
 
  1. WuorBhang: _5h_;
@@ -79,12 +81,15 @@ Here is how we’ll use our channels:
  8. Ibrahim Elmisbah: _2h_;
  9. Nahom Tekle: _4h_;
 
-## Asking for Help
+## 🙋 Asking for Help
 
 There's a fine line between confidently learning from your mistakes,
 and stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
-1. _0 -> 60 min_: Try on your own
-2. _60 -> 120 min_: Ask your group for help
-3. _120+ min_: Tag your coaches in Slack or GitHub
+1. 🧠 **0 -> 60 min**: Try it yourself. You got this! 💪
+2. 💬 **60 -> 120 min**: Ask your group for guidance.
+                          Teamwork makes the dream work! ✨
+3. 🚨 **120+ min**: Tag your coaches on Slack or GitHub. Don’t hesitate! 👩‍🏫👨‍🏫
+
+Let’s communicate, collaborate, and conquer! 🚀  
