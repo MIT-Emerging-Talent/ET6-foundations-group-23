@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Unit tests for the sum_proper_divisors function.
+
+This module contains unit tests for the sum_proper_divisors function.
+"""
+
 import unittest
 
 from ..sum_proper_divisors import sum_proper_divisors
