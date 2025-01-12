@@ -69,33 +69,7 @@ Here’s what we’ve agreed upon to scope the project effectively:
 
 - 📋 Use **GitHub Issues** and **Projects** for task tracking.
 
-- 💬 Communicate via **Slack**.
-
-### 🤝 **Team Roles**
-
-Everyone plays their part to make magic happen:
-
-  **(a). Developer:** 🖥️ Writes the main logic for the module.
-
-  **(b). Tester:** 📋 Develops unit tests and ensures code coverage.
-
-  **(c). Documenter:** 📖 Prepares project documentation, including a README.md file.
-
-  **(d). Reviewer:** 🔍 Reviews pull requests before merging to the main branch.
-
-### 🎯 **Scope of the Module**
-
-- Input: A name (string).
-
-- Output: Boolean value indicating if the name contains consecutive identical letters.
-
-- Edge cases: Handle special characters, empty strings, and numeric values gracefully.
-
-### 📚 **Documentation**
-
-- 📖 Include a **README** file with clear usage instructions
-
-- 🛠️ Provide **example input and output** for better understanding
+- 💬 Communicate via **Slack** and **WhatsApp**.
 
 ---
 
